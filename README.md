@@ -1,9 +1,23 @@
-## Hi there 👋
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Golang and Cloud Technologies.
-- 👯 I’m looking to collaborate on side projects
-- 💬 Ask me about ReactJS, NodeJs and Mobile Apps
-- 📫 You can reach out to me through richardjohn740@gmail.com
-- ⚡ Fun fact: Life is as precious as time.
+I'm a software engineer who is always curious and eager to learn.
 
+I spend most of my time improving my skills, writing codes then other things inclusive.
+
+### Technologies
+
+* Node.js
+* React.js
+* Typescript
+* JavaScript
+* React Native
+
+### Currently Learning
+* RoR
+
+### Planned Tech Stacks to learn
+
+* Golang
+* Rust
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danicoco)](https://github.com/danicoco/github-readme-stats)
