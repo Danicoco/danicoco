@@ -21,3 +21,5 @@ I spend most of my time improving my skills, writing codes then other things inc
 * Rust
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danicoco)](https://github.com/danicoco/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danicoco&layout=compact)](https://github.com/danicoco/github-readme-stats)
